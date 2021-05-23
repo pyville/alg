@@ -45,7 +45,7 @@
 | ⭐️⭐️⭐️ | [자물쇠와 열쇠](/lv3/lock_and_key.md/) | 2차원 리스트, 완전 탐색 |  |
 | ⭐️⭐️⭐️ | [디스크 컨트롤러](/lv3/disk_controller.md/) | 우선순위 큐(힙) | 작성중 |
 | ⭐️⭐️⭐️ | [매칭 점수](/lv3/match_score.md/) | 정규 표현식, 완전 탐색 | 작성중 |
-| ⭐️⭐️⭐️ | [가장 먼 노드](/lv3/farthest_node.md/) | BFS, 큐(데크) | 작성중 |
+| ⭐️⭐️⭐️ | [가장 먼 노드](/lv3/farthest_node.md/) | BFS, 큐(데크) |  |
 | ⭐️⭐️⭐️ | [줄 서는 방법](/lv3/permutation.md/) | 순열, 완전 탐색 | |
 | ⭐️⭐️⭐️ | [불량 사용자](/lv3/abusing_user.md/) | 순열, 완전 탐색 | |
 
