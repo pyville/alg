@@ -23,11 +23,11 @@
 
 라이언의 규칙에 맞게 이진트리의 노드만 좌표 평면에 그리면 다음과 같다. (이진트리의 각 노드에는 1부터 N까지 순서대로 번호가 붙어있다.)
 
-
+![example1](https://user-images.githubusercontent.com/52960121/119264750-502bfc00-bc1f-11eb-9a57-c2880374db76.jpg)
 
 이제, 노드를 잇는 간선(edge)을 모두 그리면 아래와 같은 모양이 된다.
 
-
+![example2](https://user-images.githubusercontent.com/52960121/119264751-5326ec80-bc1f-11eb-9f81-0275139fcd91.jpg)
 
 위 이진트리에서 전위 순회(preorder), 후위 순회(postorder)를 한 결과는 다음과 같고, 이것은 각 팀이 방문해야 할 순서를 의미한다.
 
