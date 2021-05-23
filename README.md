@@ -2,7 +2,9 @@
 
 코딩 테스트 문제 풀이를 올려두었습니다.
 
-출처: [프로그래머스](https://programmers.co.kr)
+풀이 언어: Python
+
+문제 출처: [프로그래머스](https://programmers.co.kr)
 
 # 문제 목록
 
