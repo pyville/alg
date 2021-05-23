@@ -14,6 +14,8 @@
 
 예를 들어, 다음과 같이 A, B, C 세 개의 웹페이지가 있고, 검색어가 hi라고 하자.
 
+![examples](https://user-images.githubusercontent.com/52960121/119264530-92a10900-bc1e-11eb-9a59-d17cbd62836b.jpg)
+
 이때 A 웹페이지의 매칭점수는 다음과 같이 계산할 수 있다.
 
 - 기본 점수는 각 웹페이지에서 hi가 등장한 횟수이다.
