@@ -45,7 +45,7 @@
 | ⭐️⭐️⭐️ | [매칭 점수](/lv3/match_score.md/) | 정규 표현식, 완전 탐색 | |
 | ⭐️⭐️⭐️ | [가장 먼 노드](/lv3/farthest_node.md/) | BFS, 큐(데크) | |
 | ⭐️⭐️⭐️ | [줄 서는 방법](/lv3/permutation.md/) | 순열, 완전 탐색 | |
-| ⭐️⭐️⭐️ | [불량 사용자](/lv3/abusing.md/) | 순열, 완전 탐색 | |
+| ⭐️⭐️⭐️ | [불량 사용자](/lv3/abusing_user.md/) | 순열, 완전 탐색 | |
 
 ## Level 4
 
