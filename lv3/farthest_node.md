@@ -22,6 +22,8 @@ n개의 노드가 있는 그래프가 있습니다. 각 노드는 1부터 n까�
 
 예제의 그래프를 표현하면 아래 그림과 같고, 1번 노드에서 가장 멀리 떨어진 노드는 4,5,6번 노드입니다.
 
+<img width="233" alt="examples" src="https://user-images.githubusercontent.com/52960121/119264414-0db5ef80-bc1e-11eb-8c6d-92612f52552e.png">
+
 # 풀이
 
 python을 이용한 풀이는 아래와 같습니다.
