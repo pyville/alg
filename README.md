@@ -6,6 +6,12 @@
 
 문제 출처: [프로그래머스](https://programmers.co.kr)
 
+# 이론 공부
+
+[자료구조](/note/data_structures.md)
+
+[알고리즘](/note/algorithms.md)
+
 # 문제 목록
 
 현재 풀이가 작성된 문제 목록입니다.
