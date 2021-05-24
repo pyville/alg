@@ -14,6 +14,8 @@
 
 > fib(n) = fib(n-1) + fib(n-2)
 
+![fibonacci](https://user-images.githubusercontent.com/52960121/119284031-a9c11480-bc79-11eb-97a9-5371141dc224.png)
+
 ## 탐욕법
 
 탐욕법, 또는 그리디(Greedy) 알고리즘이란 매 순간 최적의 선택을 할 때 최종적인 해답에 도달할 수 있는 방법입니다(부분해가 최적해가 되는 마법). 탐욕법으로 풀 수 있는 문제는 일반적으로 동적 계획법으로도 풀 수 있지만, 그 역은 성립하지 않습니다. 다음 조건을 만족하는 문제는 탐욕법으로 풀 수 있습니다.
@@ -29,6 +31,8 @@
 - 겹치는 하위 문제(Overlapping Subproblems): 한 문제를 푸는 데 같은 하위 문제를 여러 번 풀게 됨
 
 동적 계획법의 방법에는 메모이제이션(하향식 접근법) 및 타뷸레이션(상향식 접근법)이 있습니다.
+
+![dynamicprogramming](https://user-images.githubusercontent.com/52960121/119284025-a4fc6080-bc79-11eb-8148-61c3abe02fb6.png)
 
 ## 탐색 알고리즘
 
